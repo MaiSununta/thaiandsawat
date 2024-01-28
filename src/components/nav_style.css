@@ -1,0 +1,11 @@
+.custom-navbar {
+    background-color: #3498db; /* สีน้ำเงิน */
+  }
+  
+  .navbar-brand {
+    color: #ffffff; /* สีของตัวอักษรใน Navbar Brand */
+  }
+  
+  .navbar-nav a {
+    color: #ffffff; /* สีของลิงก์ใน Navbar */
+  }
